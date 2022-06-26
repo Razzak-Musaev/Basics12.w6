@@ -1,0 +1,20 @@
+.success
+.error {
+  color: gray;
+  padding: 5px;
+  margin: 10px 0 20px 0;
+  text-align: center;
+}
+
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
+
+.delete {
+  text-decoration: navy;
+  color: red;
+}
